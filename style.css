@@ -1,12 +1,17 @@
 h1{
     padding-left: 2%;
 }
+ #header-2{
+     padding-left: 8%;
+     padding-top: 10%;
+}
 
 .pink-color{
     color: brown;
 }
 section{
     display: flex;
+    margin-bottom: 4%;
 }
 .half-width{
     width: 50%;
@@ -15,4 +20,43 @@ section{
 .half-width img{
     width: 50%;
     padding-left: 10%;
+}
+#latest-blog{
+    color: cornflowerblue;
+}
+.food-info{
+    width: 50%;
+    padding-right: 4%;
+}
+.food-info img{
+    width: 50%;
+}
+#food-para{
+    padding-bottom: 20px;
+}
+#font-weight{
+    font-weight: 800;
+}
+.link-button{
+      text-decoration: none;
+      font-weight: 800;
+      color: white;
+      background-image: linear-gradient(red, orange);
+      padding: 10px 20px;
+      border-radius: 5px;      
+}
+.get-experience{
+    padding: 2% 4% 6% 5%;
+    width: 40%;
+    margin: 5%;
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, indigo, red);
+    border-image-slice: 10%;
+  
+}
+.box-shadow{
+    box-shadow:2px 2px 5px gray;
+}
+footer p{
+    text-align: center;
 }
