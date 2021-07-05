@@ -1,3 +1,18 @@
 h1{
-    font-family:
+    padding-left: 2%;
+}
+
+.pink-color{
+    color: brown;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 50%;
+    padding-left: 10%;
 }
